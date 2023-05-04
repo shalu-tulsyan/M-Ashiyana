@@ -8,13 +8,9 @@ module.exports = {
           secondaryColor: '#F0F0F0',
           blackOverlay: 'rgba(0, 0 ,0 ,0.7)',
         },
-        // backgroundImage: {
-        //   'home': "url('./src/assets/images/background.jpg')",
-        // }
     },
   },
   variants: {
-    // backgroundColor: ['active'],
     extend: {},
   },
   plugins: [],
